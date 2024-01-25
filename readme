@@ -1,0 +1,21 @@
+Merhaba Arkadaşlar! 👋
+
+JavaScript DOM Project | Restoran Uygulaması workshop'umuza hoş geldiniz. Bu etkileyici etkinlikte, JavaScript'in web sayfalarındaki önemli DOM (Belge Nesne Modeli) konseptlerini kullanarak nasıl etkili bir Restoran Uygulaması geliştirebileceğinizi öğreneceksiniz. Bu workshop, web geliştirme yeteneklerinizi bir üst seviyeye taşımanıza yardımcı olacak. 🌐
+
+Javascript DOM Projesi: Restoran Uygulaması ile Javascriptin arayüz DOM konusunun en çok kullanılan yapıları olan CRUD işlemlerini (Create-Read-Update-Delete) kavramanızı sağlayacak bu Workshopta buluşmaya davet ediyoruz.
+
+JavaScript, DOM'u kullanarak web sayfalarındaki HTML, CSS ve diğer içeriklere erişebilir ve değiştirebilir. Bu, sayfanın dinamik olarak güncellenmesine ve kullanıcı etkileşimi sağlanmasına olanak tanır. CRUD, Create (Oluştur), Read (Oku), Update (Güncelle), Delete (Sil) gibi temel veritabanı işlemlerini ifade eder. DOM, web sayfaları üzerinde bu tür CRUD işlemlerini gerçekleştirmenin temelini oluşturur ve bu işlemlerin JavaScript ile nasıl gerçekleştirildiğini anlamak önemlidir.
+
+Neler Öğreneceksiniz? 📚
+
+Bu workshop süresince aşağıdaki önemli konuları işleyeceğiz:
+
+🍽️ Restoran Uygulaması: Temel adımları öğrenerek kendi projelerinize uygulama fırsatı bulacaksınız.
+
+✅ Sipariş Oluşturma: Müşterilerin nasıl sipariş vereceğini anlatan detaylı bir kılavuza sahip olacaksınız.
+
+📊 Siparişleri Gösterme: Siparişleri nasıl etkili bir şekilde görüntüleyebileceğinizi ve yönetebileceğinizi öğreneceksiniz.
+
+🔄 Sipariş Güncellemesi: Siparişlerin güncellenmesi gerektiğinde nasıl yapılacağına dair adımları öğreneceksiniz.
+
+🗑️ Sipariş Silme: Yanlışlıkla oluşturulan siparişleri veya gereksiz verileri nasıl silebileceğinizi öğreneceksiniz.
